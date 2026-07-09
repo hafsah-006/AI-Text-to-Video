@@ -1,0 +1,10 @@
+# Security
+.env
+
+# Python Virtual Environments
+.venv/
+__pycache__/
+
+# Output and Temporary Files
+*.mp4
+temp_assets/
