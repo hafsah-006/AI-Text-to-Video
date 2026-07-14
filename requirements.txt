@@ -1,5 +1,8 @@
-google-generativeai
+google-genai
 moviepy==1.0.3
 openai-whisper
 gradio
+gradio_client
 Pillow
+gTTS
+python-dotenv
